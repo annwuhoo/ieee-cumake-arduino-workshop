@@ -4,7 +4,9 @@ IEEExCUMake Arduino Workshop
 Provided files:
 LED Die and Ultrasonic Sensor Interface
 
+
 Additional Resources:
+
 Ultrasonic sensor
 http://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
 
