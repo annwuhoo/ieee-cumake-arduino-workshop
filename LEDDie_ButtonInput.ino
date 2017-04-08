@@ -37,7 +37,7 @@ void setup() {
   randomSeed(analogRead(0));
   
   Serial.begin(9600); //initializes serial monitor 
-  Serial.println("Initialized LED Die");
+  Serial.println("Initialized LED Die. Press the push button to roll the die!");
 }
 
 void loop() {
